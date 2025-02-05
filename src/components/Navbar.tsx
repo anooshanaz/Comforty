@@ -54,6 +54,7 @@ const Navbar = () => {
             <Link href="/pages" className="hover:text-cyan-600">Pages</Link>
             <Link href="/about" className="hover:text-cyan-600">About</Link>
             <Link href="/contact" className="hover:text-cyan-600">Contact</Link>
+             <Link href="/cart" className="hover:text-cyan-600">Cart</Link>
           </nav>
           {/* Contact Number */}
           <p className="hidden md:block mt-4 md:mt-0 text-sm md:text-base text-gray-900 bg-white border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded">
