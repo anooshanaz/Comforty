@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+COMFORTY MARKETPLACE PROJECT: Documentation day(1 to 6)
 
-## Getting Started
+Introduction: The comfort marketplace is an ecommerce platform aim to improving small business and individual by providing a seamless online shopping experience. Over the course of six-day first day starting for brainstorming ,each day task in detail and also provide a pdf link in this form for detail days report.
 
-First, run the development server:
+Day 1:Conceptualization and Marketplace Design: Key Achievements:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+ Define the marketplace type General E-commerce.  Set a business goal  Design a data schema(like Product,order,customer, and delivery zone etc)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Day 2:Technical Planning: Key Achievements:  Tech Stack  Api Requirement  Deployment plan  File Link: https://github.com/anooshanaz/Technical-Document-/blob/main/Hackthon3day2/Work%20flow%20with%20visual%20diagram.pdf
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Day 3:Data Migration: Key Achievements:  Custom migration code  Setup sanity  Integrate the Api keys  Successfully migrate the data in sanity studio  File Link: https://github.com/anooshanaz/Technical-Document-/blob/main/Hakathon%20day%203.pdf
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Day 4:Building A Dynamic Frontend Components: Key Achievements:  Create a product listing card.  Use Reuseable components.  Create a Product details page.  Also Create add to cart page with the help of redux toolkit.  File link: https://github.com/anooshanaz/Technical-Document-/blob/main/Hackathon%20Day%204.pdf
 
-## Learn More
+Day 5:Testing and Backend Refinement: Key Achievements:  Test Api keys with the help of thunder client extension.  Install light house and get a report in html format.  Click in inspect then more tools and then click developer report and other testing performance.  Last create a csv report  Link file: https://github.com/anooshanaz/Technical-Document-/blob/main/DAY%205%20Report.pdf
 
-To learn more about Next.js, take a look at the following resources:
+Day 6:Deployment Preparation and Staging Environment Setup: Key Achievements:  First run the command npm run build to check there is no bug and error.  Second secure key in .env file.  Third create a GitHub repository.  Forth deploy project in vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+GitHub link https://github.com/anooshanaz/Hackathon3.git 
+Vercel Link https://hackathon3-eta.vercel.app/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Anoosha Naz(00064668)
